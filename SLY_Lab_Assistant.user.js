@@ -34,13 +34,13 @@
 
 	//Used for reading solana data
 	let readRPCs = [
-		'https://rpc.hellomoon.io/696a668d-1da2-4e92-8cc3-8c75e148a459',
+		'https://rpc.hellomoon.io/4a970705-20e8-4fa4-ad9e-40bbd3b33c60',
 		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
 	];
 
 	//Used for pushing transactions to solana chain
 	let writeRPCs = [
-		'https://rpc.hellomoon.io/696a668d-1da2-4e92-8cc3-8c75e148a459',
+		'https://rpc.hellomoon.io/4a970705-20e8-4fa4-ad9e-40bbd3b33c60',
 		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
 	];
 
